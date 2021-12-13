@@ -1,0 +1,5 @@
+Flutter project:
+
+Since the flutter projects have a size that exceeds the github limit I Uploaded it in Google Drive.
+
+https://drive.google.com/file/d/1eURrN4zcgnI0l7QopVj_DSBm1iHtwZ8Z/view?usp=sharing
